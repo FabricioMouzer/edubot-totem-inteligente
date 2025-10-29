@@ -1816,7 +1816,7 @@ Este projeto é desenvolvido como parte do Challenge FlexMedia da FIAP e está s
 2. ✅ Adicionar tutora como colaboradora
 3. ✅ Criar estrutura de pastas
 4. ✅ Escrever README.md completo
-5. [ ] Criar diagramas de arquitetura
+5. ✅ Criar diagramas de arquitetura (arquitetura-geral.png, fluxo-dados.png, pipeline-ia.png)
 6. [ ] Submeter no portal FIAP até 31/10/2025, 23h59
 
 ---
