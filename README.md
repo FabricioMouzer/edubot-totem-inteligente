@@ -8,13 +8,21 @@
 
 ---
 
-## 👤 Informações do Projeto
+## 👥 Informações do Projeto
 
-**Aluno:** Fabrício Mouzer Brito  
-**RM:** 566777  
-**E-mail:** fabriciomouzer@hotmail.com  
+**Equipe:**
+
+| Nome | E-mail | Função |
+|------|--------|--------|
+| **Fabrício Mouzer Brito** | fabriciomouzer@hotmail.com | Líder do Projeto / Documentação |
+| **Pedro Henrique Lopes dos Santos** | pedrolopeshls99@gmail.com | Desenvolvimento Backend |
+| **Enzo Nunes Castanheira Gloria da Silva** | enzoncgs@gmail.com | Hardware / IoT |
+| **Larissa Nunes Moreira Reis** | larissa.nmreis@gmail.com | Frontend / UX |
+| **Gabriel Rapozo Guimarães Soares** | rapozogabriel8@gmail.com | IA / Machine Learning |
+
 **Turma:** R  
-**Data:** Outubro de 2025
+**Data:** Outubro de 2025  
+**Challenge:** FlexMedia - Sprint 1
 
 ---
 
