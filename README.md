@@ -12,13 +12,13 @@
 
 **Equipe:**
 
-| Nome | E-mail | Função |
-|------|--------|--------|
-| **Fabrício Mouzer Brito** | fabriciomouzer@hotmail.com | Líder do Projeto / Documentação |
-| **Pedro Henrique Lopes dos Santos** | pedrolopeshls99@gmail.com | Desenvolvimento Backend |
-| **Enzo Nunes Castanheira Gloria da Silva** | enzoncgs@gmail.com | Hardware / IoT |
-| **Larissa Nunes Moreira Reis** | larissa.nmreis@gmail.com | Frontend / UX |
-| **Gabriel Rapozo Guimarães Soares** | rapozogabriel8@gmail.com | IA / Machine Learning |
+| Nome | E-mail |
+|------|--------|
+| Pedro Henrique Lopes dos Santos | pedrolopeshls99@gmail.com |
+| Fabrício Mouzer Brito | fabriciomouzer@hotmail.com |
+| Enzo Nunes Castanheira Gloria da Silva | enzoncgs@gmail.com |
+| Larissa Nunes Moreira Reis | larissa.nmreis@gmail.com |
+| Gabriel Rapozo Guimarães Soares | rapozogabriel8@gmail.com |
 
 **Turma:** R  
 **Data:** Outubro de 2025  
