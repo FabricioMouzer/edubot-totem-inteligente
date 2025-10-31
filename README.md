@@ -277,17 +277,17 @@ A arquitetura do EDUBOT é dividida em camadas para garantir modularidade, escal
 
 Os diagramas de arquitetura completos estão disponíveis na pasta `docs/diagramas/`:
 
+- `diagrama-arquitetura.png` - Diagrama de arquitetura de componentes (estilo AWS)
+- `casos-de-uso.png` - Diagrama UML de casos de uso
 - `arquitetura-geral.png` - Visão geral do sistema (6 camadas)
-- `arquitetura-visual.png` - Diagrama visual da arquitetura (estilo AWS)
 - `fluxo-dados.png` - Pipeline de processamento de dados
 - `pipeline-ia.png` - Fluxo de processamento de IA
-- `casos-de-uso.png` - Diagrama UML de casos de uso
 
-#### Diagrama de Arquitetura Visual
+#### Diagrama de Arquitetura de Componentes
 
-![Arquitetura Visual](docs/diagramas/arquitetura-visual.png)
+![Diagrama de Arquitetura](docs/diagramas/diagrama-arquitetura.png)
 
-*Figura 1: Arquitetura em camadas do sistema EDUBOT mostrando fluxo de dados entre componentes*
+*Figura 1: Diagrama de arquitetura mostrando componentes principais e suas conexões*
 
 #### Diagrama de Casos de Uso
 
