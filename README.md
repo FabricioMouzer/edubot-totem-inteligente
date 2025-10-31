@@ -8,21 +8,13 @@
 
 ---
 
-## 👥 Informações do Projeto
+## 👤 Informações do Projeto
 
-### Equipe
-
-| Nome | RM | E-mail | Responsabilidade |
-|------|-----|--------|------------------|
-| **Fabrício Mouzer Brito** | 566777 | fabriciomouzer@hotmail.com | Documentação Técnica no GitHub |
-| **Pedro Henrique Lopes dos Santos** | - | pedrolopeshls99@gmail.com | Arquitetura e Diagramas |
-| **Enzo Nunes Castanheira Gloria da Silva** | - | enzoncgs@gmail.com | Estratégia de Coleta de Dados |
-| **Larissa Nunes Moreira Reis** | - | larissa.nmreis@gmail.com | Acessibilidade e LGPD |
-| **Gabriel Rapozo Guimarães Soares** | - | rapozogabriel8@gmail.com | Tecnologias e Integração de IA |
-
+**Aluno:** Fabrício Mouzer Brito  
+**RM:** 566777  
+**E-mail:** fabriciomouzer@hotmail.com  
 **Turma:** R  
-**Data:** Outubro de 2025  
-**Instituição:** FIAP - Tecnólogo em Inteligência Artificial
+**Data:** Outubro de 2025
 
 ---
 
@@ -285,9 +277,23 @@ A arquitetura do EDUBOT é dividida em camadas para garantir modularidade, escal
 
 Os diagramas de arquitetura completos estão disponíveis na pasta `docs/diagramas/`:
 
-- `arquitetura-geral.png` - Visão geral do sistema
+- `arquitetura-geral.png` - Visão geral do sistema (6 camadas)
+- `arquitetura-visual.png` - Diagrama visual da arquitetura (estilo AWS)
 - `fluxo-dados.png` - Pipeline de processamento de dados
 - `pipeline-ia.png` - Fluxo de processamento de IA
+- `casos-de-uso.png` - Diagrama UML de casos de uso
+
+#### Diagrama de Arquitetura Visual
+
+![Arquitetura Visual](docs/diagramas/arquitetura-visual.png)
+
+*Figura 1: Arquitetura em camadas do sistema EDUBOT mostrando fluxo de dados entre componentes*
+
+#### Diagrama de Casos de Uso
+
+![Casos de Uso](docs/diagramas/casos-de-uso.png)
+
+*Figura 2: Diagrama UML de casos de uso mostrando interações entre atores e funcionalidades do sistema*
 
 ---
 
@@ -687,16 +693,9 @@ O desenvolvimento do EDUBOT está planejado para 6 meses, dividido em 6 sprints 
 
 ## 📞 Contato
 
-### Equipe do Projeto
-
-| Nome | E-mail | Responsabilidade |
-|------|--------|------------------|
-| Fabrício Mouzer Brito | fabriciomouzer@hotmail.com | Documentação Técnica no GitHub |
-| Pedro Henrique Lopes dos Santos | pedrolopeshls99@gmail.com | Arquitetura e Diagramas |
-| Enzo Nunes Castanheira Gloria da Silva | enzoncgs@gmail.com | Estratégia de Coleta de Dados |
-| Larissa Nunes Moreira Reis | larissa.nmreis@gmail.com | Acessibilidade e LGPD |
-| Gabriel Rapozo Guimarães Soares | rapozogabriel8@gmail.com | Tecnologias e Integração de IA |
-
+**Aluno:** Fabrício Mouzer Brito  
+**E-mail:** fabriciomouzer@hotmail.com  
+**RM:** 566777  
 **Turma:** R  
 **Instituição:** FIAP - Faculdade de Informática e Administração Paulista  
 **Curso:** Tecnólogo em Inteligência Artificial
